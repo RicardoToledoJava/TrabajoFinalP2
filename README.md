@@ -4,6 +4,8 @@
   .- Debe ser capas de asignar tarea y listar todas las tareas
   .- Asignar fecha de tarea.
   
+  Debe entregar la tarea del 10% compartiendo un nuevo git con la solucion.
+  
   
 <h4> 2.- En un papel traer diagrama entidad relacion de tarea anterior para agregar nuevas 
   tablas.</h4>
