@@ -1,18 +1,18 @@
 # TrabajoFinalP2
 
-<h3>1.- Finalizar tarea https://github.com/RicardoToledoJava/AppJava01 (Equivale al 10% de la tarea final) </h3>
+<h4>1.- Finalizar tarea https://github.com/RicardoToledoJava/AppJava01 (Equivale al 10% de la tarea final) </h3>
   .- Debe ser capas de asignar tarea y listar todas las tareas
   .- Asignar fecha de tarea.
   
   
-# 2.- En un papel traer diagrama entidad relacion de tarea anterior para agregar nuevas 
-  tablas.
+<h4> 2.- En un papel traer diagrama entidad relacion de tarea anterior para agregar nuevas 
+  tablas.</h4>
   
-# 3.- Descargar Ireport para generar reportes en su aplicacion final.
+<h4> 3.- Descargar Ireport para generar reportes en su aplicacion final.</h4>
   .-  Cuidado con la version de java del archivo de ireport.
 
-# 4.- Dejar en git y compartir con docente aplicacion de trabajo final.
+<h4> 4.- Dejar en git y compartir con docente aplicacion de trabajo final.</h4>
 
-# 5.- Exponer dia 28/06/2016. 
+<h4> 5.- Exponer dia 28/06/2016. </h4>
 
-# 6.- exito.-
+<h4> 6.- exito.- </h4>
