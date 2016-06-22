@@ -13,4 +13,6 @@
 
 4.- Dejar en git y compartir con docente aplicacion de trabajo final.
 
+5.- Exponer dia 28/06/2016. 
+
 5.- exito.-
