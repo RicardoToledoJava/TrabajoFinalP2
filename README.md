@@ -1,6 +1,6 @@
 # TrabajoFinalP2
 
-# 1.- Finalizar tarea https://github.com/RicardoToledoJava/AppJava01 (Equivale al 10% de la tarea final)
+<h3>1.- Finalizar tarea https://github.com/RicardoToledoJava/AppJava01 (Equivale al 10% de la tarea final) </h3>
   .- Debe ser capas de asignar tarea y listar todas las tareas
   .- Asignar fecha de tarea.
   
